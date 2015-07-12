@@ -12,7 +12,8 @@ RUN chmod 555 /etc/apt/sources.list & \
         php5-curl \
         php5-intl \
         php5-mysql \
-        php-pear && \
+        php-pear \
+        sendmail && \
     apt-get clean
 
 VOLUME /var/www
