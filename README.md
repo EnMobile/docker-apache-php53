@@ -1,6 +1,6 @@
 #Debian Apache PHP 5.3
 
-This repository contains the Dockerfile and support files to create an [Apache Http Server](http://httpd.apache.org/) / [PHP 5.3](http://php.net/releases/5_3_0.php) instance based on Debian Wheezy.
+This repository contains the Dockerfile and support files to create an [Apache Http Server](http://httpd.apache.org/) / [PHP 5.3](http://php.net/releases/5_3_0.php) instance based on [Debian Wheezy](https://wiki.debian.org/DebianWheezy).
 
 ##Base Docker Image
 debian:wheezy
