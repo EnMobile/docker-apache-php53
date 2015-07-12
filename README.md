@@ -12,8 +12,8 @@ Install Docker.
 Download automated build from public Docker Hub Registry: 
 >docker pull enmobile/apache:php53
 
-(alternatively, you can build an image from Dockerfile: 
->docker build -t="enmobile/apache:php53" github.com/EnMobile/docker-apache-php53)
+Alternatively, you can build an image from Dockerfile: 
+>docker build -t="enmobile/apache:php53" github.com/EnMobile/docker-apache-php53
 
 ##Usage
 
