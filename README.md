@@ -21,9 +21,9 @@ Alternatively, you can build an image directly from this repository:
 
 ##Customization
 
->docker run -d -p 80:2368 -v <path-to/local-web-root>:/var/www enmobile/apache:php53
+>docker run -d -p 80:2368 -v \<path-to/local-web-root\>:/var/www enmobile/apache:php53
 
-where <path-to/local-web-root> is an absolute path of a directory containing php and static sources.
+where \<path-to/local-web-root\> is an absolute path of a directory containing php and static sources.
 
 Mac boot2docker users will want to place the path to local web root under the automacially shared Users folder and should consider using something like:
 
