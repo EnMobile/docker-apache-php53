@@ -1,4 +1,5 @@
 #Debian Apache PHP 5.3
+[![](https://badge.imagelayers.io/enmobile/apache:php53.svg)](https://imagelayers.io/?images=enmobile/apache:php53 'Get your own badge on imagelayers.io')
 
 This repository contains the Dockerfile and support files to create an [Apache Http Server](http://httpd.apache.org/) / [PHP 5.3](http://php.net/releases/5_3_0.php) instance based on [Debian Wheezy](https://wiki.debian.org/DebianWheezy).
 
